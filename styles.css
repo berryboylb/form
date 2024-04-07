@@ -7,3 +7,17 @@
 .error {
   color: red !important;
 }
+
+input {
+  color: red;
+  border: 1px solid red;
+}
+
+button {
+  background: red;
+  color: white;
+}
+
+h1 {
+   color: blue;
+}
